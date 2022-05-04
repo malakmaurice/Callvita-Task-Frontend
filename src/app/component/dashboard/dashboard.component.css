@@ -1,0 +1,29 @@
+.task-container .task-name{
+font-size: 20px;
+font-weight: bolder;
+}
+.task-container .task-description{
+  color: rgb(0, 0, 0,0.4);
+  margin-left:10px ;
+  }
+  
+.task-input button .custom{
+  width: 20px !important;
+}
+.add-btn{
+  background-color: green;
+  margin-bottom: 16px;
+  color: white;
+  font-size: 14px;
+  height: 40px;
+  margin :0;
+  padding:0 10px;
+}
+.dash-board{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn-outline-primary,.btn-outline-danger{
+  border-color: transparent;
+}
